@@ -134,3 +134,4 @@
 const start = parseInt(prompt('n son kiriting '))
 const end = parseInt(prompt('oxirgi son kiriting'))
 
+// bu boshqa darslar chunki while darsini endi tushundimda 
